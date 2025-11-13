@@ -6,6 +6,8 @@ A browser-based implementation of the classic Plinko game built with HTML, CSS, 
 
 HTMLPlinko is a simple, lightweight Plinko game that runs entirely in your web browser. Drop the disc and watch it bounce through the pegs to land in one of the prize slots at the bottom. I made this as a demo, so feel free to use it for your own testing or template purposes.
 
+![Plinko Screenshot](plinko1.png)
+
 ## Features
 
 - Pure browser-based gameplay with no external dependencies
